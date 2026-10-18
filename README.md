@@ -44,7 +44,12 @@ Depends on track. “It works” is not a sample. Paste a real session.
 - Package ready for Canvas
 
 ## Rubric (100)
-Graded on the must-includes in this README — not the lesson-week table.
+
+| Criterion | Pts |
+|-----------|----:|
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 A complete small program is better than an unfinished larger one. Add stretch features only after the required list runs.
